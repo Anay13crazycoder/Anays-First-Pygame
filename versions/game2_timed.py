@@ -190,7 +190,7 @@ while selection2:
     pygame.display.update()
 
 # Timer
-time_limit = 90
+time_limit = 60
 clock = pygame.time.Clock()
 game_time = pygame.time.get_ticks() 
 
